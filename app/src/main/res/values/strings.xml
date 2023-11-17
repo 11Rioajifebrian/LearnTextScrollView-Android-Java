@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">LearnTextScrollView</string>
+
+    <string name="lipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quam arcu, faucibus id faucibus sit amet, dictum auctor dui. Vestibulum pulvinar fermentum quam, in ultrices tortor sagittis ac. Aliquam erat volutpat. Suspendisse nulla felis, pretium at est ac, blandit egestas elit. Quisque vitae blandit nisi. Fusce eu eros et quam dignissim consectetur sed sed sem. Mauris at fringilla justo. In vitae blandit ex, et dapibus ex.
+
+Nulla nisl massa, semper et velit id, vestibulum imperdiet orci. Mauris auctor tempus gravida. Proin fermentum sit amet nulla in convallis. Duis sit amet velit et odio lobortis ullamcorper ac ac enim. Praesent ultricies at justo at vulputate. Ut pulvinar imperdiet justo, in mattis mauris gravida eget. Etiam vel ultrices velit. Quisque dictum ut lorem mattis efficitur. Aliquam non feugiat leo, volutpat euismod velit. Maecenas nec faucibus dui, a varius purus. Donec orci urna, ornare eu fermentum a, porttitor in turpis. Nulla a purus sem. In suscipit risus id purus blandit pharetra. Quisque suscipit purus diam, pretium accumsan nunc egestas a. Nullam quis enim a augue ultrices ultricies. </string>
+</resources>
